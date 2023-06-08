@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff9d4bf3.css",
+    "main.js": "/static/js/main.606b2774.js",
+    "static/js/787.b8bf0a65.chunk.js": "/static/js/787.b8bf0a65.chunk.js",
+    "static/media/InsideTheWorldsBiggestPassengerPlane.mp4": "/static/media/InsideTheWorldsBiggestPassengerPlane.95158e0f69d6ba88629e.mp4",
+    "static/media/slider2.jpg": "/static/media/slider2.11996c1c486a27e94b80.jpg",
+    "static/media/slider1.jpg": "/static/media/slider1.db79f59d02771da28e46.jpg",
+    "static/media/slide3.jpg": "/static/media/slide3.c77c5c9a255dc702a3d0.jpg",
+    "static/media/pexels-ahmed-muntasir-912050.jpg": "/static/media/pexels-ahmed-muntasir-912050.f12d88921abfef2b2d1f.jpg",
+    "static/media/Destinations_Dekstop.png": "/static/media/Destinations_Dekstop.8854c5bd7781e95acc6a.png",
+    "static/media/Fasttrack_Desktop.jpg": "/static/media/Fasttrack_Desktop.1a05e61f615bab2a9fbe.jpg",
+    "static/media/Large-Upgrade.jpg": "/static/media/Large-Upgrade.914b916047dba323ede3.jpg",
+    "static/media/Large-experiences.jpg": "/static/media/Large-experiences.e06f0b7f4a0b31080db7.jpg",
+    "static/media/Large-Sustainability.jpg": "/static/media/Large-Sustainability.961a159b7c795bee1f3f.jpg",
+    "static/media/airhostess.jpg": "/static/media/airhostess.b5963ce5223f285e19de.jpg",
+    "static/media/contact.jpg": "/static/media/contact.f7abb21aa4e6ddf9b9d6.jpg",
+    "static/media/Alfursan_Destop.jpg": "/static/media/Alfursan_Destop.7e65043d1bcc3f1854f2.jpg",
+    "static/media/about1.jpg": "/static/media/about1.1350e751398341f3a5d1.jpg",
+    "static/media/nc4.png": "/static/media/nc4.84023f100d89dc70c1ef.png",
+    "static/media/logo.png": "/static/media/logo.4e5c8fa3d1bf3c118e60.png",
+    "index.html": "/index.html",
+    "main.ff9d4bf3.css.map": "/static/css/main.ff9d4bf3.css.map",
+    "main.606b2774.js.map": "/static/js/main.606b2774.js.map",
+    "787.b8bf0a65.chunk.js.map": "/static/js/787.b8bf0a65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff9d4bf3.css",
+    "static/js/main.606b2774.js"
+  ]
+}
